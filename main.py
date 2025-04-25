@@ -163,22 +163,3 @@ if __name__ == "__main__":
     pygame.mixer.init() # Initialize Pygame mixer for audio
     main_menu()
         
-
-
-
-
-
-
-
-
-
-
-
-        
-
-
-
-
-
-
-
